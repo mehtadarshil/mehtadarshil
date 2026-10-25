@@ -1,102 +1,46 @@
-<!-- Banner -->
-<div align="center">
+# Darshil Mehta
+## Mobile Engineer | iOS & Android | Mobile + Backend Ownership
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Hi%2C+I'm+Darshil+Mehta+%F0%9F%91%8B;Software+Engineer+%C2%B7+AI+%26+Full+Stack" alt="Typing banner" />
+I build mobile products and the systems behind them. I have **4+ years of professional experience**, strongest in **Flutter/Dart**, with **React Native/Expo** and custom **Swift/Kotlin platform integrations**.
 
-**Building production AI products, SaaS platforms & cross-platform mobile apps**  
-from architecture → deployment
+At Sapphire Software Solutions, I managed development and maintenance across **20+ cross-platform projects**. My current work combines hands-on engineering with requirements, stakeholder discussions, delivery coordination and operational support.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mehtadarshil.site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://mehtadarshil.site)
-[![Email](https://img.shields.io/badge/Email-mehtadarshil98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtadarshil98@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-Ahmedabad%2C_India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://mehtadarshil.site)
+[Portfolio](https://mehtadarshil.site) · [LinkedIn](https://linkedin.com/in/mehtadarshil) · [Email](mailto:mehtadarshil98@gmail.com)  
+Based in Ahmedabad, India · Open to remote mobile and product engineering roles
 
-</div>
+### Selected mobile ownership
 
----
+| Product | My ownership and engineering work |
+| --- | --- |
+| **Valmont Security** | Independently own mobile/full-stack engineering and technical support for a workforce platform. Flutter iOS/Android app, Next.js dashboard, Node.js APIs and PostgreSQL/Prisma. NFC attendance and patrols, GPS, SOS, messaging and push notifications. Custom native screenshot-event bridges, animated tab transitions and Reduce Motion support with focused widget tests. |
+| **WorkPilot** | Sole/lead engineering ownership of field-service and compliance workflows. Flutter field app and backend integrations for jobs, reports, notes and media. Persistent offline submissions survive restarts, process in order and expose pending/retry/error states; large payloads use application-support files. [Product](https://work-pilot.co) |
+| **CryptoSe — pre-launch** | Hands-on technical and delivery lead across a React Native/Expo app, TypeScript API and Next.js dashboard, alongside staff coordination and stakeholder meetings. QR payments, quote/confirmation/status flows, payment links and session handling; concurrency controls and durable completion processing. EAS/GitHub Actions release configuration, Fastlane lanes, Maestro flows and Sentry. The product is in development; no live end-to-end launch is claimed. |
 
-### About me
+### How I work
 
-Software Engineer with **~4 years** shipping production systems across **AI agents, multi-tenant SaaS, healthcare, security, EdTech, and fintech**.
+- Take responsibility across interfaces, API contracts, persistence, deployment and support.
+- Make loading, empty, error, offline and retry states part of the product.
+- Balance interface polish with reliability and accessibility.
+- Coordinate stakeholders and staff while remaining hands-on with implementation.
 
-I care about clean architecture, reliable APIs, and products that survive real users — not just demos.
+### Core stack
 
-| | |
-|---|---|
-| **Focus** | AI Agents · SaaS · Full Stack · Mobile · Workflow Automation |
-| **Currently** | Software Engineer @ **Valmont Security** (London, UK) |
-| **Also** | Building under **Trionyx Software Solutions** |
-| **Open to** | Interesting full-time / contract roles in AI × product engineering |
-
----
-
-### Tech I work with
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
-<details>
-<summary><strong>Full stack breakdown</strong></summary>
-
-| Layer | Tools |
-|---|---|
-| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express, FastAPI, NestJS, PostgreSQL, MongoDB, Prisma |
-| **AI / Automation** | Gemini, OpenAI, LangChain, Vapi, n8n |
-| **Mobile** | Flutter, React Native, Provider / GetX, NFC / BLE, Geolocation |
-| **Cloud / DevOps** | Firebase, Docker, DigitalOcean, GitHub Actions, AWS S3, nginx, PM2 |
-
-</details>
-
----
-
-### Featured work
-
-> Most client work is shared as **anonymized case studies** (architecture + outcomes, no proprietary source).
-
-| Project | What it is |
-|---|---|
-| [**Security Workforce Platform**](https://github.com/mehtadarshil/security-workforce-management-platform) | Multi-tenant SaaS for private security — shifts, NFC patrol, SOS, billing |
-| [**AI Voice Calling Agent**](https://github.com/mehtadarshil/ai-voice-calling-agent) | Outbound voice AI with Vapi + LLM orchestration + CRM sync |
-| [**AI Call Intelligence**](https://github.com/mehtadarshil/ai-call-intelligence-platform) | Turns call recordings/transcripts into actionable business insights |
-| [**AI CRM Copilot**](https://github.com/mehtadarshil/ai-crm-copilot) | In-CRM assistant that cuts manual data entry & improves follow-through |
-| [**AI Sports Coaching**](https://github.com/mehtadarshil/ai-sports-coaching-app) | Flutter + vision AI for training-video coaching feedback |
-| [**Workflow Automation**](https://github.com/mehtadarshil/business-workflow-automation-app) | Automates recurring business processes end-to-end |
-
-<p align="center">
-  <a href="https://mehtadarshil.site"><strong>→ See full portfolio & live products</strong></a>
-</p>
-
----
+**Mobile:** Flutter, Dart, React Native, Expo, TypeScript, GetX, Provider, Swift/Kotlin platform integration  
+**Backend & web:** Node.js, Express, Hono, PostgreSQL, Prisma, Redis, Next.js, React  
+**Quality & delivery:** Flutter widget tests, Maestro, Sentry, GitHub Actions, EAS, Fastlane, Firebase, Socket.IO  
+**Current learning and development:** Python/FastAPI backend and AI-agent workflows for the CryptoSe client; this work is not live.
 
 ### Experience
 
-```text
-2026 → Present   Software Engineer     Valmont Security (London, UK)
-2024 → 2026      Software Developer    Synccipher Innovations (Ahmedabad)
-2022 → 2024      Flutter Developer     Sapphire Software Solutions (Bangalore)
-```
+- **Valmont Security Ltd** — Software Developer & Technical Support Specialist; mobile and full-stack responsibilities · Feb 2026–Present · UK team, remote from India
+- **Synccipher Innovations Pvt. Ltd.** — Software Developer · Aug 2024–Jan 2026
+- **Sapphire Software Solutions** — Flutter Developer · Aug 2022–Jul 2024 · Emerging Star Award
 
-**Education:** B.Tech Information Technology — Silver Oak University
+B.Tech., Information Technology — Silver Oak University, 2020–2024
 
----
+### Additional project archive
 
-### Full project archive
+The broader archive below includes anonymized client case studies. Case-study repositories describe work and architecture; they should not be mistaken for public production source code or proof of download/revenue metrics. Private client source remains private.
 
 <details>
 <summary><strong>AI & SaaS</strong> (14)</summary>
@@ -188,33 +132,3 @@ I care about clean architecture, reliable APIs, and products that survive real u
 - [Patient Healthcare App](https://github.com/mehtadarshil/patient-healthcare-app) — Full-stack healthcare app for patient-facing workflows.
 
 </details>
-
----
-
-### GitHub pulse
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mehtadarshil&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=mehtadarshil&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtadarshil&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=00000000" height="165" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something that ships
-
-Open to conversations about **AI products**, **SaaS platforms**, and **mobile systems** that need to work in production.
-
-[![Website](https://img.shields.io/badge/mehtadarshil.site-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mehtadarshil.site)
-[![Email](https://img.shields.io/badge/Say_hello-mehtadarshil98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtadarshil98@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mehtadarshil&style=flat-square&color=58A6FF" alt="Profile views" />
-
-</div>
