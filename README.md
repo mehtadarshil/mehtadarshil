@@ -13,8 +13,14 @@ Based in Ahmedabad, India · Open to remote mobile and product engineering roles
 | Product | My ownership and engineering work |
 | --- | --- |
 | [**Valmont Security**](https://github.com/mehtadarshil/security-workforce-management-platform) | Independently own mobile/full-stack engineering and technical support for a workforce platform. Flutter iOS/Android app, Next.js dashboard, Node.js APIs and PostgreSQL/Prisma. NFC attendance and patrols, GPS, SOS, messaging and push notifications. Custom native screenshot-event bridges, animated tab transitions and Reduce Motion support with focused widget tests. |
-| [**WorkPilot**](https://github.com/mehtadarshil/field-service-management-platform) | Sole/lead engineering ownership of field-service and compliance workflows. Flutter field app and backend integrations for jobs, reports, notes and media. Persistent offline submissions survive restarts, process in order and expose pending/retry/error states; large payloads use application-support files. [Product](https://work-pilot.co) |
+| [**WorkPilot**](https://github.com/mehtadarshil/field-service-management-platform) | A Valmont project. Sole/lead engineering ownership of field-service and compliance workflows. Flutter field app and backend integrations for jobs, reports, notes and media. Persistent offline submissions survive restarts, process in order and expose pending/retry/error states; large payloads use application-support files. [Product](https://work-pilot.co) |
 | [**CryptoSe — pre-launch**](https://github.com/mehtadarshil/non-custodial-crypto-payment-app) | Hands-on technical and delivery lead across a React Native/Expo app, TypeScript API and Next.js dashboard, alongside staff coordination and stakeholder meetings. QR payments, quote/confirmation/status flows, payment links and session handling; concurrency controls and durable completion processing. EAS/GitHub Actions release configuration, Fastlane lanes, Maestro flows and Sentry. The product is in development; no live end-to-end launch is claimed. |
+
+### Synccipher mobile projects
+At **Synccipher Innovations Pvt. Ltd. (Aug 2024–Jan 2026)**, I worked on **KnectHotel**, **WheelstoVet**, **Food Scan Genius**, **Coocicoach**, **TaskaPro** and **Speak Pro AI**, spanning hospitality, pet services, wellness, sports/AI, marketplaces and EdTech/AI.
+
+### Zyoora Smart Ring
+Flutter wearable application connecting a smart ring through **Bluetooth Low Energy (BLE)**. My work includes health-data views, wellness trends, an **in-app AI chatbot** and a modern mobile interface, alongside Apple Health, Google Health Connect and Strava synchronization. [Project summary](https://github.com/mehtadarshil/wearable-health-tracking-app)
 
 ### How I work
 
@@ -32,7 +38,7 @@ Based in Ahmedabad, India · Open to remote mobile and product engineering roles
 
 ### Experience
 
-- **Valmont Security Ltd** — Software Developer & Technical Support Specialist; mobile and full-stack responsibilities · Feb 2026–Present · UK team, remote from India
+- **Valmont Security Ltd** — Software Developer & Technical Support Specialist; mobile and full-stack responsibilities including WorkPilot · Feb 2026–Present · UK team, remote from India
 - **Synccipher Innovations Pvt. Ltd.** — Software Developer · Aug 2024–Jan 2026
 - **Sapphire Software Solutions** — Flutter Developer · Aug 2022–Jul 2024 · Emerging Star Award
 
