@@ -12,9 +12,9 @@ Based in Ahmedabad, India · Open to remote mobile and product engineering roles
 
 | Product | My ownership and engineering work |
 | --- | --- |
-| **Valmont Security** | Independently own mobile/full-stack engineering and technical support for a workforce platform. Flutter iOS/Android app, Next.js dashboard, Node.js APIs and PostgreSQL/Prisma. NFC attendance and patrols, GPS, SOS, messaging and push notifications. Custom native screenshot-event bridges, animated tab transitions and Reduce Motion support with focused widget tests. |
-| **WorkPilot** | Sole/lead engineering ownership of field-service and compliance workflows. Flutter field app and backend integrations for jobs, reports, notes and media. Persistent offline submissions survive restarts, process in order and expose pending/retry/error states; large payloads use application-support files. [Product](https://work-pilot.co) |
-| **CryptoSe — pre-launch** | Hands-on technical and delivery lead across a React Native/Expo app, TypeScript API and Next.js dashboard, alongside staff coordination and stakeholder meetings. QR payments, quote/confirmation/status flows, payment links and session handling; concurrency controls and durable completion processing. EAS/GitHub Actions release configuration, Fastlane lanes, Maestro flows and Sentry. The product is in development; no live end-to-end launch is claimed. |
+| [**Valmont Security**](https://github.com/mehtadarshil/security-workforce-management-platform) | Independently own mobile/full-stack engineering and technical support for a workforce platform. Flutter iOS/Android app, Next.js dashboard, Node.js APIs and PostgreSQL/Prisma. NFC attendance and patrols, GPS, SOS, messaging and push notifications. Custom native screenshot-event bridges, animated tab transitions and Reduce Motion support with focused widget tests. |
+| [**WorkPilot**](https://github.com/mehtadarshil/field-service-management-platform) | Sole/lead engineering ownership of field-service and compliance workflows. Flutter field app and backend integrations for jobs, reports, notes and media. Persistent offline submissions survive restarts, process in order and expose pending/retry/error states; large payloads use application-support files. [Product](https://work-pilot.co) |
+| [**CryptoSe — pre-launch**](https://github.com/mehtadarshil/non-custodial-crypto-payment-app) | Hands-on technical and delivery lead across a React Native/Expo app, TypeScript API and Next.js dashboard, alongside staff coordination and stakeholder meetings. QR payments, quote/confirmation/status flows, payment links and session handling; concurrency controls and durable completion processing. EAS/GitHub Actions release configuration, Fastlane lanes, Maestro flows and Sentry. The product is in development; no live end-to-end launch is claimed. |
 
 ### How I work
 
@@ -110,7 +110,7 @@ The broader archive below includes anonymized client case studies. Case-study re
 <details>
 <summary><strong>Web & Tools</strong> (20)</summary>
 
-- [Non-Custodial Crypto-to-Fiat Payment App](https://github.com/mehtadarshil/non-custodial-crypto-payment-app) — Mobile + API monorepo enabling non-custodial USDT-to-UPI conversion.
+- [Crypto-to-UPI Mobile Product — Pre-launch](https://github.com/mehtadarshil/non-custodial-crypto-payment-app) — React Native/Expo mobile and API work in development; intended wallet model under review.
 - [ATS-Friendly Resume Builder](https://github.com/mehtadarshil/ats-friendly-resume-builder) — Tool that helps job seekers build resumes optimized for ATS scans.
 - [Ayurvedic Body-Type Decoder App](https://github.com/mehtadarshil/ayurvedic-body-type-decoder-app) — Quiz-driven app to identify Ayurvedic body type (Prakruti).
 - [Education Coaching Center Website](https://github.com/mehtadarshil/education-coaching-center-website) — Marketing and enrollment website for a tutoring business.
